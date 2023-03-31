@@ -1,6 +1,6 @@
 Name:		texlive-apnum
 Version:	47510
-Release:	1
+Release:	2
 Summary:	Arbitrary precision numbers implemented by TeX macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apnum
