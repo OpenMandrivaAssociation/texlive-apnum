@@ -3,7 +3,7 @@ Version:	47510
 Release:	2
 Summary:	Arbitrary precision numbers implemented by TeX macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apnum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/apnum
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apnum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apnum.doc.r%{version}.tar.xz
